@@ -7,6 +7,7 @@ Experiment with concepts of queue, or circular queue in specific. In this projec
 * Remove the first element of the queue
 * Check if the queue is empty
 * Check if the queue is full
+* Implement the priority queue
 * Solve problems by using queue
   * Reverse queue
   * Using stack to implement queue
